@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity game development and winforms
 - 🌱 I’m currently learning javascript and more C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: arttu@arttukuikka.fi
+- 📫 How to reach me: arttu.juhani.kuikka@gmail.com
 
 <!---
 ArttuKuikka/ArttuKuikka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
